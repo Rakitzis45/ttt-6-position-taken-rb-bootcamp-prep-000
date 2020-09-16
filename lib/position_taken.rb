@@ -2,4 +2,5 @@
 def position_taken
   if (array[index_number] == " ")
     return false
+  end
 end
